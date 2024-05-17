@@ -1,12 +1,5 @@
 # Created by pytest automatically.
-# chromedriver-win64
-# selenium_env
-# tempCodeRunnerFile.py
-# tempCodeRunnerFile.python
-# .pytest_cache
-# .venv
-# Automation_with_Selenium_and_Python/
-# Automation_with_Selenium_and_Python/tempCodeRunnerFile.py
-# Automation_with_Selenium_and_Python/__pycache__/
-# Automation_with_Selenium_and_Python/.pytest_cache/
-# __pycache__/
+tempCodeRunnerFile.py
+tempCodeRunnerFile.python
+.pytest_cache
+__pycache__/
